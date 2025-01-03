@@ -1,2 +1,2 @@
 # Osmanthus
-Osmanthus or Manthus OS Is a custom distro for Linux. (currently under development)
+Osmanthus or Is a custom DE for Linux. (currently under development) looking forward to code contributors 😊
